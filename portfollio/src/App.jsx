@@ -1,8 +1,8 @@
 import React from 'react'
-import clock from './Aboutus'
+import Dashboard from './assets/Pages/Dashboard'
 
 export default function App() {
   return (
-    <div><clock/></div>
+  <Dashboard/>
   )
 }
